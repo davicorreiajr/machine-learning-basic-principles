@@ -1,0 +1,8 @@
+[ValidateApp | INFO] Validating '/course/source/03 - Classification/Classification - Exercise.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | ERROR] Timeout waiting for execute reply (30s).
+[ValidateApp | ERROR] Interrupting kernel
+[ValidateApp | INFO] Validating '/course/source/03 - Classification/Classification - Exercise.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | ERROR] Timeout waiting for execute reply (30s).
+[ValidateApp | ERROR] Interrupting kernel

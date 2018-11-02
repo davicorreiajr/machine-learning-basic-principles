@@ -1,0 +1,5 @@
+[UpdateApp | CRITICAL] Bad config encountered during initialization:
+[UpdateApp | CRITICAL] Invalid argument: '-'
+[UpdateApp | ERROR] No such file or directory: course/source/06 - Feature Learning/Round 6 - Feature Learning.ipynb
+[UpdateApp | INFO] Updating metadata for notebook: Round 6 - Feature Learning.ipynb
+[UpdateApp | INFO] Updating metadata for notebook: Round 6 - Feature Learning.ipynb
