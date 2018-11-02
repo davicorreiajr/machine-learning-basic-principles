@@ -1,6 +1,6 @@
 # Machile Learning: Basic Principles
 
-"CS-E3210 - Machine Learning: Basic Principles" is a subject from Aalto University, which I coursed during the months of September and October of 2018. This repository is a collection of all exercises, developed in Python thought Jupyter Notebooks, I've done during the course.
+`CS-E3210 - Machine Learning: Basic Principles` is a subject from Aalto University, which I coursed during the months of September and October of 2018. This repository is a collection of all exercises, developed in Python thought Jupyter Notebooks, I've done during the course.
 
 During the course, we've basically done assignments weekly (which can be found in the `assignments` folder) and, in the end, a project (of course, found in the `project` folder). More information about all the exercises can be found in the Jupyter Notebook itself.
 
