@@ -21,6 +21,10 @@ Finally, start the Jupyter:
 jupyter notebook
 ```
 
+## Credits
+
+All the `assignments` had a very good explanation and came with some code done. Also, in the `references` folder, you can find a notebook from the teacher that served as a good reference. All this was possible thanks to the [staff](https://mycourses.aalto.fi/course/view.php?id=20569&section=5) of the course.
+
 ## Troubles & sugestions
 
 Please, if you find any problem or have some sugestion, don't hesitate to open an issue or even a pull request.
